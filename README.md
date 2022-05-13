@@ -1,4 +1,4 @@
-# Spacex-api
+# SpaceX_Launch_Info
  Home page will show a list of Launchpads each item in the list represents one launchpad. Each item will show the following details:
 1. 	Name
 2. 	Details
