@@ -22,3 +22,6 @@ npm install
 ```bash 
 npm start
 ```
+##Screen Shots
+![SpaceX-Info - Google Chrome 14-05-2022 01_05_23 (2)](https://user-images.githubusercontent.com/69138038/168377822-ec09bf3e-3b02-43d9-a0e8-6a8b1dbf3fe9.png)
+![SpaceX-Info - Google Chrome 14-05-2022 01_06_18 (2)](https://user-images.githubusercontent.com/69138038/168377919-300649f4-bfa4-4c42-8084-2220a72a2fe0.png)
